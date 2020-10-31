@@ -96,7 +96,7 @@ h6 {
 .main-nav a:hover,
 .main-nav .active > a,
 .main-nav li:hover > a {
-  color: #007bff;
+  color: #00ccff;
   text-decoration: none;
 }
 
@@ -153,7 +153,7 @@ h6 {
 
 .mobile-nav-toggle i {
   margin: 18px 18px 0 0;
-  color: #004289;
+  color: rgb(225, 235, 223);
 }
 
 .mobile-nav-overly {
